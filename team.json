@@ -1,0 +1,139 @@
+[
+  {
+    "name": "Kinjal Dutta",
+    "profile_picture": "team/Kinjal Dutta.jpg",
+    "department": "Leadership & Strategy",
+    "role": "President",
+    "quote": "Leading with vision and purpose."
+  },
+  {
+    "name": "Debosmita Ghosh",
+    "profile_picture": "team/Debosmita Ghosh.jpg",
+    "department": "Leadership & Strategy",
+    "role": "Vice President",
+    "quote": "Turning ideas into impactful actions."
+  },
+  {
+    "name": "Shreya Prasad",
+    "profile_picture": "team/Shreya prasad.jpg",
+    "department": "Leadership & Strategy",
+    "role": "Secretary",
+    "quote": "Organizing success, one step at a time."
+  },
+  {
+    "name": "Arnav Ghosh",
+    "profile_picture": "team/Arnav Ghosh.jpg",
+    "department": "Tech & Innovation",
+    "role": "Head of Tech",
+    "quote": "Innovating to solve tomorrow’s challenges."
+  },
+  {
+    "name": "Piyush Dutta",
+    "profile_picture": "team/Piyush Dutta.jpg",
+    "department": "Tech & Innovation",
+    "role": "Research and Development Lead",
+    "quote": "Exploring new horizons in technology."
+  },
+  {
+    "name": "Rajdeep Majumder",
+    "profile_picture": "team/Rajdeep majumdar.jpg",
+    "department": "Tech & Innovation",
+    "role": "Frontend Developer",
+    "quote": "Designing user experiences that matter."
+  },
+  {
+    "name": "Divyansh Kumar",
+    "profile_picture": "team/Div K.jpg",
+    "department": "Tech & Innovation",
+    "role": "Backend Developer",
+    "quote": "Building robust systems behind the scenes."
+  },
+  {
+    "name": "Taniya Sarkar",
+    "profile_picture": "team/Taniya Sarkar.jpg",
+    "department": "Events & Operations",
+    "role": "Head of Events",
+    "quote": "Creating moments that last a lifetime."
+  },
+  {
+    "name": "Soumik Balo",
+    "profile_picture": "team/Soumik Balo.jpg",
+    "department": "Events & Operations",
+    "role": "Venue and Logistics Head",
+    "quote": "Every great event begins with flawless planning."
+  },
+  {
+    "name": "Agniva Ghosh",
+    "profile_picture": "team/Agniva Ghosh.JPG",
+    "department": "Events & Operations",
+    "role": "Event Technical Support",
+    "quote": "Technical perfection for every event."
+  },
+  {
+    "name": "Poulami Karmakar",
+    "profile_picture": "team/Poulami Karmakar.jpg",
+    "department": "Events & Operations",
+    "role": "Event Coordination & Reporting",
+    "quote": "Keeping events smooth and memories vivid."
+  },
+  {
+    "name": "Srija Dey",
+    "profile_picture": "team/Srija Dey.png",
+    "department": "Finance & Sponsorship",
+    "role": "Head of Finance & Sponsorship",
+    "quote": "Balancing budgets, fueling ambitions."
+  },
+  {
+    "name": "Ankur Saha",
+    "profile_picture": "team/Ankur Saha.JPG",
+    "department": "Finance & Sponsorship",
+    "role": "Sponsorship Outreach Executive & Budget Planner",
+    "quote": "Building partnerships that drive success."
+  },
+  {
+    "name": "Arijit Bhattacharyya",
+    "profile_picture": "team/Arijit Bhattacharyya.jpg",
+    "department": "Events & Operations",
+    "role": "Graphics Designer",
+    "quote": "Bringing ideas to life through design."
+  },
+  {
+    "name": "Debangan Roy",
+    "profile_picture": "team/Debangan Roy.jpg",
+    "department": "Events & Operations",
+    "role": "Video Editor & Media Team",
+    "quote": "Crafting stories through visuals."
+  },
+  {
+    "name": "Pancham Das",
+    "profile_picture": "team/Pancham Das.jpeg",
+    "department": "Events & Operations",
+    "role": "Caption Creator",
+    "quote": "Words that resonate, captions that connect."
+  },
+  {
+    "name": "Priya Tiwari",
+    "profile_picture": "team/priya tiwari .jpg",
+    "department": "Leadership & Strategy",
+    "role": "Outreach Support",
+    "quote": "Connecting communities, building futures."
+  },
+  {
+    "name": "Somoshree Mazumdar",
+    "profile_picture": "team/Somoshree Mazumder.jpg",
+    "department": "Events & Operations",
+    "role": "Content & Media Team Lead",
+    "quote": "Crafting compelling narratives for every event."
+  },
+  {
+    "name": "Udita Das",
+    "profile_picture": "team/Udita Das.jpg",
+    "department": "Events & Operations",
+    "role": "PR Writer",
+    "quote": "Words that inspire, stories that engage."
+  }
+  
+  
+
+
+]
